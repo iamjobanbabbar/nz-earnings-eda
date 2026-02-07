@@ -63,3 +63,14 @@ Both datasets are publicly available and used in cleaned and filtered form.
 This project demonstrates end-to-end exploratory data analysis using real New Zealand
 labour market data. It highlights the importance of understanding data structure,
 making transparent assumptions, and communicating insights clearly.
+
+## Data Availability
+
+The raw datasets used in this project are publicly available from Stats NZ but are not included
+in this repository due to file size limitations.
+
+- Quarterly Employment Survey (QES): https://www.stats.govt.nz/
+- Household Living-costs Price Index (HLPI): https://www.stats.govt.nz/
+
+The notebook contains all data cleaning and processing steps required to reproduce the analysis.
+
